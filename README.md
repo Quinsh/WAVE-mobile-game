@@ -1,4 +1,4 @@
-[![Watch the video](records/thumbnail.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=MsnWCGpVDLE&t=74s))
+[![Watch the video](records/thumbnail.png)](https://www.youtube.com/watch?v=MsnWCGpVDLE&t=74s)
 (click to see the video!)
 
 ## WAVE - my mobile game
